@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b6c2385-04e2-4d3a-ad47-078d0c27c5e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrabalhoPO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/battles/intro.battle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/battles/sample.battle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/config/robocode.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/config/window.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/overview-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/AdvancedRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BattleEndedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BattleResults.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BattleRules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BorderSentry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Bullet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BulletHitBulletEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BulletHitEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/BulletMissedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Condition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/CustomEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/DeathEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Droid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/GunTurnCompleteCondition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/HitByBulletEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/HitRobotEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/HitWallEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/JuniorRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/KeyEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/KeyPressedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/KeyReleasedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/KeyTypedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MessageEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseClickedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseDraggedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseEnteredEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseExitedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseMovedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MousePressedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseReleasedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MouseWheelMovedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/MoveCompleteCondition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/PaintEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RadarTurnCompleteCondition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RateControlRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Robocode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RobocodeFileOutputStream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RobocodeFileWriter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Robot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RobotDeathEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RobotStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/RoundEndedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/Rules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/ScannedRobotEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/SkippedTurnEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/StatusEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/TeamRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/TurnCompleteCondition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/WinEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/_AdvancedRadiansRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/_AdvancedRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/_Robot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/_RobotBase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/annotation/SafeStatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/annotation/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/annotation/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/annotation/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/BattleSpecification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/BattlefieldSpecification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/IRobocodeEngine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RandomFactory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RobocodeEngine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RobocodeListener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RobotResults.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RobotSetup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/RobotSpecification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleAdaptor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleCompletedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleErrorEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleFinishedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleMessageEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattlePausedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleResumedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/BattleStartedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/IBattleListener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/RoundEndedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/RoundStartedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/TurnEndedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/TurnStartedEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/events/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/BulletState.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/IBulletSnapshot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/IDebugProperty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/IRobotSnapshot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/IScoreSnapshot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/ITurnSnapshot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/RobotState.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/control/snapshot/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IAdvancedEvents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IAdvancedRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IBasicEvents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IBasicEvents2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IBasicEvents3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IBasicRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IInteractiveEvents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IInteractiveRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IJuniorRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IPaintEvents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/IPaintRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/ITeamEvents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/ITeamRobot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/IAdvancedRobotPeer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/IBasicRobotPeer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/IJuniorRobotPeer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/IStandardRobotPeer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/ITeamRobotPeer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/robotinterfaces/peer/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/util/Utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/util/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/util/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/robocode/util/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/codesize-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/picocontainer-2.14.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.battle-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.core-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.host-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.repository-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.sound-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.ui-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/robocode.ui.editor-1.9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/libs/roborumble.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/license/epl-v10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robocode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robocode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robots/robot.database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/robot.database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Corners.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Corners.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Crazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Crazy.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Fire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Fire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Interactive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Interactive.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Interactive_v2$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Interactive_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Interactive_v2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/MyFirstJuniorRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/MyFirstRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/MyFirstRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/PaintingRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/PaintingRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/RamFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/RamFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/SittingDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/SittingDuck.data/count.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/SittingDuck.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/SpinBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/SpinBot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Target$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Target.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/TrackFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/TrackFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Tracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Tracker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/VelociRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/VelociRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Walls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sample/Walls.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/Alien.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/AlienComposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/GreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/MasterAndSlave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/MasterAndSlave.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/MasterBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/RegullarMonk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleex/Slave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/samplesentry/BorderGuard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/samplesentry/BorderGuard.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleteam/MyFirstDroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleteam/MyFirstLeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleteam/MyFirstTeam.team" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleteam/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotsbin/production/robocode/sampleteam/RobotColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/robot.database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Corners.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Corners.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Corners.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Crazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Crazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Crazy.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Fire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Fire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Fire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive_v2$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive_v2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Interactive_v2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstJuniorRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstJuniorRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/MyFirstRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/PaintingRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/PaintingRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/PaintingRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/RamFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/RamFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/RamFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SittingDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SittingDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SittingDuck.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SpinBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SpinBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/SpinBot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Target$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Target.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/TrackFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/TrackFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/TrackFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Tracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Tracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Tracker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/VelociRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/VelociRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/VelociRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Walls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Walls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sample/Walls.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/Alien.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/AlienComposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/AlienComposition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/GreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/MasterAndSlave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/MasterAndSlave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/MasterAndSlave.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/MasterBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/ProxyOfGreyEminence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/RegullarMonk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/RegullarMonk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/Slave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleex/Slave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/samplesentry/BorderGuard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/samplesentry/BorderGuard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/samplesentry/BorderGuard.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/MyFirstDroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/MyFirstDroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/MyFirstLeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/MyFirstLeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/MyFirstTeam.team" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/RobotColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Saxion/Project Selection/robocode/robotssrc/sampleteam/RobotColors.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1266921532">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="113" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoadArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="45" column="27" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TrabalhoPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoPO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrabalhoPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoPO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590858844222" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TrabalhoPO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b6c2385-04e2-4d3a-ad47-078d0c27c5e2" name="Default Changelist" comment="" />
+      <created>1590858483238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590858483238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="720" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LoadArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="45" column="27" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="113" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
